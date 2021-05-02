@@ -10,7 +10,7 @@ filename: AB_NYC_2019.csv
 
 desc: A dataset of Airbnb listings in the city of New York. Information on location is given through neighborhood, neighborhood group (borough), latitude, and longitude. Other information given includes room information, price of listing, review quantity, amount of host listings, and general availability.
 
-tags: airbnb, nyc, renting, rent, price, review, listing, availability
+tags: airbnb, nyc, renting, rent, price, review, listing, availability, 2019
 
 ## template
 filename:
